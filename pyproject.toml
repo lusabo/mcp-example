@@ -6,7 +6,8 @@ readme = "README.md"
 requires-python = ">=3.12"
 dependencies = [
     "fastmcp>=2.5.1",
-    "openai>=1.82.0",
+    "openai-agents-mcp>=0.0.8",
     "psycopg2-binary>=2.9.10",
+    "python-dotenv>=1.1.0",
     "streamlit>=1.45.1",
 ]
